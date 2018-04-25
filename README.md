@@ -112,3 +112,4 @@ Not called on initial render, but always called whenever a subsequent re-render 
 - [Idempotent Operations](https://stackoverflow.com/questions/1077412/what-is-an-idempotent-operation)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-rendering'>Rendering</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG React Rendering</p>
